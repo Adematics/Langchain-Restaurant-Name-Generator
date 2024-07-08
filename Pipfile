@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tqdm = "*"
+notebook = "==7.1.2"
+openai = "*"
+elasticsearch = "*"
+langchain = "*"
+langchain-community = "*"
+langchain-google-genai = "*"
+direnv = "*"
+python-dotenv = "*"
+streamlit = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
