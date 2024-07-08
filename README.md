@@ -1,9 +1,9 @@
-# Langchian Restaurant Name Generator with GoogleAI
+# Langchain Restaurant Name Generator with GoogleAI
 
 
 ![Restaurant Name Generator Demo](Media/appname.gif)
 
-## Prerequisite
+## Prerequisite 
 Before you begin:
 * Install Python 
 * Signup to GoogleAI account : https://aistudio.google.com/ 
