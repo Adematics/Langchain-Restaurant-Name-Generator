@@ -1,7 +1,8 @@
 # Langchian Restaurant Name Generator with GoogleAI
 
 
-<video controls src="Media/appmedia.mp4" title="Title"></video>
+<video controls src="Media/appmedia.mp4" title="Title" type="video/mp4">Your browser does not support the video tag.</video>
+
 
 ## Prerequisite
 Before you begin:
