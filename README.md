@@ -35,8 +35,7 @@ To run the restaurant name generator app, you need to set up Langchain and Googl
     api_key = "AIzaSyCJBmdqxxxxxxxxxxxxxxxxxxxxx"
     ```
 
-    > **Note**
-    >
+    > [!NOTE]
     > Replace the `AIzaSyCJBmdqxxxxxxxxxxxxxxxxxxxxx` with your GoogleAI api key.
 
 5. Create a `.gitignore` file, edit and add `.env` to ensure the `.env` file with the API key does not commit.
