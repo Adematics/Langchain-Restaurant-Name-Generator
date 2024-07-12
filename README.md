@@ -35,8 +35,13 @@ To run the restaurant name generator app, you need to set up Langchain and Googl
     api_key = "AIzaSyCJBmdqxxxxxxxxxxxxxxxxxxxxx"
     ```
 
-    > [!NOTE]
-    > Replace the `AIzaSyCJBmdqxxxxxxxxxxxxxxxxxxxxx` with your GoogleAI api key.
+    > [!IMPORTANT]
+    >The UI for PgAdmin 4 has changed, please follow the below steps for creating a server:
+    >
+    >* After login to PgAdmin, right click Servers in the left sidebar.
+    >* Click on Register.
+    >* Click on Server.
+    >* The remaining steps to create a server are the same as in the videos.
 
 5. Create a `.gitignore` file, edit and add `.env` to ensure the `.env` file with the API key does not commit.
 
