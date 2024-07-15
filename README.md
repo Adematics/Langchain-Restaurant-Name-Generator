@@ -57,3 +57,4 @@ echo ".env" >> .gitignore
 
 ## Set up the Restaurant Name Generator Application
 
+Content still in the oven. PLEASE CHECK BACK SOON!
